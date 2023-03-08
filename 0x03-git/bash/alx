@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 #!/bin/bashD
 echo "ALX School is so cool!"
+=======
+#!/bin/bash
+echo "ALX School is so cool!"
+
+>>>>>>> 2b57ecc9e204a1b8746f868283eb19ee8302859d
